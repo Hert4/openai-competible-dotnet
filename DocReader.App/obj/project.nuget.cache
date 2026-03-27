@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1DYzf6TevhQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\browser-use\\DocReader\\DocReader.App\\DocReader.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\documentformat.openxml\\3.5.1\\documentformat.openxml.3.5.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\documentformat.openxml.framework\\3.5.1\\documentformat.openxml.framework.3.5.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.io.packaging\\10.0.2\\system.io.packaging.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DocReader.App/DocReader.App.csproj" />
+  <Project Path="DocReader.Tests/DocReader.Tests.csproj" />
+</Solution>
